@@ -25,3 +25,6 @@
 [submodule "ft-philosophers"]
 	path = ft-philosophers
 	url = https://github.com/andersonhsporto/ft-philosophers
+[submodule "ft-Net_Practice"]
+	path = ft-Net_Practice
+	url = https://github.com/andersonhsporto/ft-Net_Practice
