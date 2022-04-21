@@ -22,3 +22,6 @@
 [submodule "ft-minishell-ht"]
 	path = ft-minishell-ht
 	url = https://github.com/andersonhsporto/ft-minishell-ht
+[submodule "ft-philosophers"]
+	path = ft-philosophers
+	url = https://github.com/andersonhsporto/ft-philosophers
