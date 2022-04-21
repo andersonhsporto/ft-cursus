@@ -13,3 +13,12 @@
 [submodule "ft-so_long"]
 	path = ft-so_long
 	url = https://github.com/andersonhsporto/ft-so_long
+[submodule "ft-pipex"]
+	path = ft-pipex
+	url = https://github.com/andersonhsporto/ft-pipex
+[submodule "ft-push-swap"]
+	path = ft-push-swap
+	url = https://github.com/andersonhsporto/ft-push-swap
+[submodule "ft-minishell-ht"]
+	path = ft-minishell-ht
+	url = https://github.com/andersonhsporto/ft-minishell-ht
