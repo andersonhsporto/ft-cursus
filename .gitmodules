@@ -1,0 +1,9 @@
+[submodule "ft-libft"]
+	path = ft-libft
+	url = https://github.com/andersonhsporto/ft-libft
+[submodule "ft-get-next-line"]
+	path = ft-get-next-line
+	url = https://github.com/andersonhsporto/ft-get-next-line
+[submodule "ft-printf"]
+	path = ft-printf
+	url = https://github.com/andersonhsporto/ft-printf
