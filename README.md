@@ -18,5 +18,6 @@ All projects developed at 42 São Paulo
 | [philosophers](https://github.com/andersonhsporto/ft-philosophers) | Dining philosophers problem using threads and mutex in C.   | `threads` `mutex` | [![anhigo-s's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl1mzhqsg000609lex2an5jr4/project/2535873)](https://github.com/JaeSeoKim/badge42)|
 | [Net_Practice](https://github.com/andersonhsporto/ft-Net_Practice) | General practical exercise to discover networking.   | `network` `system administration` | [![anhigo-s's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl1mzhqsg000609lex2an5jr4/project/2547474)](https://github.com/JaeSeoKim/badge42)|
 | [miniRT](https://github.com/andersonhsporto/ft-miniRT) | My first RayTracer with miniLibX.   | `mlx` `ray trace` | [![anhigo-s's 42 miniRT Score](https://badge42.vercel.app/api/v2/cl1mzhqsg000609lex2an5jr4/project/2556166)](https://github.com/JaeSeoKim/badge42)|
+| [CPP Piscine](https://github.com/andersonhsporto/CPP_piscine) | Introduction to C++.   | `c++` `inheritance` `algorithm` | [![anhigo-s's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/cl1mzhqsg000609lex2an5jr4/project/2759392)](https://github.com/JaeSeoKim/badge42)|
 
 *Project template inspired by [<em>denisgodoy - 42-cursus</em>](https://github.com//denisgodoy/42-cursus/) 
