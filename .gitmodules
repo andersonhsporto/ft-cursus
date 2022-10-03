@@ -28,3 +28,6 @@
 [submodule "ft-Net_Practice"]
 	path = ft-Net_Practice
 	url = https://github.com/andersonhsporto/ft-Net_Practice
+[submodule "ft-cpp_piscine"]
+	path = ft-cpp_piscine
+	url = git@github.com:andersonhsporto/CPP_piscine.git
