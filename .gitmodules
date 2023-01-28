@@ -31,3 +31,9 @@
 [submodule "ft-cpp_piscine"]
 	path = ft-cpp_piscine
 	url = git@github.com:andersonhsporto/CPP_piscine.git
+[submodule "ft-containers"]
+	path = ft-containers
+	url = https://github.com/andersonhsporto/ft_containers.git
+[submodule "ft-inception"]
+	path = ft-inception
+	url = https://github.com/andersonhsporto/ft-inception.git
