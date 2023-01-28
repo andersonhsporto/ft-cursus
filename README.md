@@ -1,9 +1,6 @@
 # 🏊ft-cursus
 
-All projects developed at 42 São Paulo
-
-[![anhigo-s's 42 stats](https://badge42.vercel.app/api/v2/cl1mzhqsg000609lex2an5jr4/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
-
+All projects developed at 42 São Paulo.
 
 | Project | Description | Topics |Status |
 |:----------:|:-------:|:-------:|:-------:|
@@ -31,5 +28,8 @@ All projects developed at 42 São Paulo
 | [inception](https://github.com/andersonhsporto/ft-inception) | Docker  |   Dockerfile, Docker-compose, Docker-machine. | [![anhigo-s's 42 Inception Score](https://badge42.vercel.app/api/v2/cl1mzhqsg000609lex2an5jr4/project/2932046)](https://github.com/JaeSeoKim/badge42) 
 | [ft_webserv](https://github.com/andersonhsporto/ft-webserv) | Webserver  |   HTTP, CGI, Sockets | [![anhigo-s's 42 webserv Score](https://badge42.vercel.app/api/v2/cl1mzhqsg000609lex2an5jr4/project/2941151)](https://github.com/JaeSeoKim/badge42)
 
+
+<p align=center>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1mzhqsg000609lex2an5jr4/stats?cursusId=21&coalitionId=undefined" alt="anhigo-s's 42 stats" /></a></a> 
 
 *Project template inspired by [<em>denisgodoy - 42-cursus</em>](https://github.com//denisgodoy/42-cursus/) 
