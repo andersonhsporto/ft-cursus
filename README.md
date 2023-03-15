@@ -28,10 +28,10 @@
 | [CPP Module 07](https://github.com/andersonhsporto/CPP_piscine/tree/main/7_module) | Introduction to C++  |   Templates. | 
 | [CPP Module 08](https://github.com/andersonhsporto/CPP_piscine/tree/main/8_module) | Introduction to C++  |   Templates and Containers. | 
 | [CPP Module 09](https://github.com/andersonhsporto/CPP_piscine/tree/main/9_module) | Introduction to C++  |   Containers and Iterators. |
-| [ft_containers](https://github.com/andersonhsporto/ft_containers) | C++ Containers  |   Vector, Map, Stack. | 
+| [ft_containers](https://github.com/andersonhsporto/ft_containers) | C++ Containers  |   Recreating the STL containers (Vector, Map, Stack). |
 | [inception](https://github.com/andersonhsporto/ft-inception) | Docker  |   Dockerfile, Docker-compose, Docker-machine. | 
 | [ft_webserver](https://github.com/andersonhsporto/ft-webserv) | Webserver  |   HTTP, CGI, Sockets | 
-
+<br/>
 ## Graphical projects using the [mlx](https://github.com/42Paris/minilibx-linux) library
 
 | Project | Description | Topics |
