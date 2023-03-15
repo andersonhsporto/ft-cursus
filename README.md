@@ -1,6 +1,6 @@
 # 🏊ft-cursus
 
-All projects developed at 42 São Paulo
+## All projects developed at 42 São Paulo
 
 
 | Project | Description | Topics |
@@ -32,5 +32,12 @@ All projects developed at 42 São Paulo
 | [inception](https://github.com/andersonhsporto/ft-inception) | Docker  |   Dockerfile, Docker-compose, Docker-machine. | 
 | [ft_webserver](https://github.com/andersonhsporto/ft-webserv) | Webserver  |   HTTP, CGI, Sockets | 
 
+## Graphical projects using the [mlx](https://github.com/42Paris/minilibx-linux) library
+
+| Project | Description | Topics |
+|:----------:|:-------:|:-------:|
+| [mlx-piano](https://github.com/andersonhsporto/mlx-piano) | A piano made with the mlx library. | `mlx` `audio`  `X-Window` |
+| [mlx-capivara](https://github.com/andersonhsporto/mlx-capivara) | A capivara that follows the mouse. | `mlx` `X-Window` |
+| [so_long](https://github.com/andersonhsporto/ft-so_long) | A very small 2D game. It is built to work with textures, sprites. And some very basic gameplay elements.   |`mlx` `2d game` |
 
 *Project template inspired by [<em>denisgodoy - 42-cursus</em>](https://github.com//denisgodoy/42-cursus/)
