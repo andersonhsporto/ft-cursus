@@ -36,7 +36,7 @@
 
 | Project | Description | Topics |
 |:----------:|:-------:|:-------:|
-| [mlx-piano](https://github.com/andersonhsporto/mlx-piano) | A piano made with the mlx library. | `mlx` `audio`  `X-Window` |
+| [mlx-piano](https://github.com/andersonhsporto/mlx-piano) | A piano made with the mlx library and miniaudio. | `mlx` `miniaudio`  `X-Window` |
 | [mlx-capivara](https://github.com/andersonhsporto/mlx-capivara) | A capivara that follows the mouse. | `mlx` `X-Window` |
 | [so_long](https://github.com/andersonhsporto/ft-so_long) | A very small 2D game. It is built to work with textures, sprites. And some very basic gameplay elements.   |`mlx` `2d game` |
 
