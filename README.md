@@ -40,4 +40,10 @@
 | [mlx-capivara](https://github.com/andersonhsporto/mlx-capivara) | A capivara that follows the mouse. | `mlx` `X-Window` |
 | [so_long](https://github.com/andersonhsporto/ft-so_long) | A very small 2D game. It is built to work with textures, sprites. And some very basic gameplay elements.   |`mlx` `2d game` |
 
+## Extra projects
+
+| Project | Description | Topics |
+|:----------:|:-------:|:-------:|
+| [avengers-api](https://github.com/andersonhsporto/C-avengers-api) | API Rest Using Data From Marvel Avengers Comic Book . | `API` `C` `JSON` `REST` `mongoose` `mariadb` `docker` |
+
 *Project template inspired by [<em>denisgodoy - 42-cursus</em>](https://github.com//denisgodoy/42-cursus/)
