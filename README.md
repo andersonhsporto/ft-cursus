@@ -43,9 +43,11 @@
 
 ## Web projects
 
+
+
 | Project | Description | Topics |
 |:----------:|:-------:|:-------:|
-| ft-transcedence | A multiplayer game where you can play pong against other players. | `Docker` `Websockets` `Nginx` `PostgreSQL` `React` `Typescript` `NodeJS` `Socket.io` `JWT` |
+| [ft-transcedence](https://github.com/transpong/ft_transcendence) | A multiplayer game where you can play pong against other players. | `Docker` `Websockets` `Nginx` `PostgreSQL` `React` `Typescript` `NodeJS` `Socket.io` `JWT` |
 
 ## Extra projects
 
