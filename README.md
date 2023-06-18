@@ -2,6 +2,7 @@
 
 ## All projects developed at 42 São Paulo
 
+## Common Core
 
 | Project | Description | Topics |
 |:----------:|:-------:|:-------:|
@@ -44,7 +45,6 @@
 ## Web projects
 
 
-
 | Project | Description | Topics |
 |:----------:|:-------:|:-------:|
 | [ft-transcedence](https://github.com/transpong/ft_transcendence) | A multiplayer game where you can play pong against other players. | `Docker` `Websockets` `Nginx` `PostgreSQL` `React` `Typescript` `NodeJS` `Socket.io` `JWT` |
@@ -54,6 +54,12 @@
 | Project | Description | Topics |
 |:----------:|:-------:|:-------:|
 | [avengers-api](https://github.com/andersonhsporto/C-avengers-api) | API Rest Using Data From Marvel Avengers Comic Book . | `API` `C` `JSON` `REST` `mongoose` `mariadb` `docker` |
+
+## Java projects
+
+|                               Project                                |                            Description                            |                Topics                |
+|:--------------------------------------------------------------------:|:-----------------------------------------------------------------:|:------------------------------------:|
+| [avaj-launcher](https://github.com/andersonhsporto/ft-avaj-launcher) | Java project using UML, design patterns, and file I/O operations. | Java, UML, Design Patterns, File I/O |
 
 *Project template inspired by [<em>denisgodoy - 42-cursus</em>](https://github.com//denisgodoy/42-cursus/)
 
